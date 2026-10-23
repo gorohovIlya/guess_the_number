@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="title">Загадайте число от 0 до 100</string>
+    <string name="iGuessedTheNumber">Я ЗАГАДАЛ ЧИСЛО</string>
+    <string name="YourNumberIs">Вы загадали число</string>
+    <string name="yes">ДА</string>
+    <string name="noGreater">НЕТ, БОЛЬШЕ</string>
+    <string name="noLesser">НЕТ, МЕНЬШЕ</string>
+</resources>
